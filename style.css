@@ -1,0 +1,39 @@
+body{
+ background-image: url(images/bbg.jpg);
+
+}
+.nav-item a{
+    font-size: 30px;
+    color: blanchedalmond;
+}
+.coustom{
+    margin-top: 200px;
+}
+.my-photo{
+    margin-top: 160px;
+     margin-left: 233px;
+}
+ a.buttion.btn.btn-outline-info.btn.btn-lg {
+    margin-left: 30px;
+}
+.my-photo{
+    border-radius: 60px;
+}
+i.bi.bi-whatsapp {
+    font-size: 50px;
+    color: greenyellow;
+}
+i.bi.bi-linkedin {
+    margin-left: 45px;
+    font-size: 50px;
+    color: lightblue;
+}
+i.bi.bi-whatsapp:hover {
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.842);
+}
+i.bi.bi-linkedin:hover {
+    margin-left: 45px;
+    font-size: 50px;
+    color: rgb(28, 5, 243);
+}
